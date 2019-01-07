@@ -1,1 +1,1 @@
-fetch(http://207.154.221.6:52433)
+fetch("http://api.open-notify.org/astros.json").then(response => response.json());
